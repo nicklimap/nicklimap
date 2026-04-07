@@ -9,6 +9,7 @@
   👩‍🎓 Atualmente na Universidade de São Paulo(USP) <br>
   💜 Aprendendo Python, Git e GitHub <br>
   💙 Sempre evoluindo um pouquinho por dia
+   ✔Iniciante no universo tech
 </p>
 
 <p align="center">
