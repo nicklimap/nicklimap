@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Bem--vinda(o)!-ff69b4?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Coding-8a2be2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Dreaming-1e90ff?style=for-the-badge">
+ 
 </p>
 
 <hr>
@@ -36,15 +36,12 @@
   <img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h2>📊 Estatísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicklimap&show_icons=true&theme=dracula">
-</p>
 
-<h2>🌈 Contato</h2>
+<h2>🌈 Contato: </h2>
 <p>
   💌 Email: nick.limaprel@email.com <br>
   💕 Instagram: @nick_.lima
+
 </p>
 
 <hr>
