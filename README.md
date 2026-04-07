@@ -8,7 +8,7 @@
   💖 Estudante de Sistemas de Informação  <br>
   👩‍🎓 Atualmente na Universidade de São Paulo(USP) <br>
   💜 Aprendendo Python, Git e GitHub <br>
-  💙 Sempre evoluindo um pouquinho por dia
+  💙 Sempre evoluindo um pouquinho por dia <br>
    ✔Iniciante no universo tech
 </p>
 
