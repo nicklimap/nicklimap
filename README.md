@@ -1,16 +1,54 @@
-## Hi there 👋
+##🌟 Olá!!Sou a Nicole e é um prazer te conhecer!!🌟
 
-<!--
-**nicklimap/nicklimap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  🌸✨ Oii! Eu sou a Nicole Lima ✨🌸
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💖 Estudante de Sistemas de Informação  <br>
+  👩‍🎓 Atualmente na Universidade de São Paulo(USP) <br>
+  💜 Aprendendo Python, Git e GitHub <br>
+  💙 Sempre evoluindo um pouquinho por dia
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Bem--vinda(o)!-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Coding-8a2be2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Dreaming-1e90ff?style=for-the-badge">
+</p>
+
+<hr>
+
+<h2>💫 Sobre mim</h2>
+<ul>
+  <li>📚 Amo aprender coisas novas</li>
+  <li>🧠 Gosto de desafios e lógica</li>
+  <li>👩‍💻Adoro programar </li>
+</ul>
+
+<h2>🌐 Tecnologias e linguagens</h2>
+<p>
+  <img src="https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-8a2be2?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1e90ff?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-8a2be2?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-1e90ff?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<h2>📊 Estatísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicklimap&show_icons=true&theme=dracula">
+</p>
+
+<h2>🌈 Contato</h2>
+<p>
+  💌 Email: nick.limaprel@email.com <br>
+  💕 Instagram: @nick_.lima
+</p>
+
+<hr>
+
+<p align="center">
+  ✨ Obrigada por visitar meu perfil! Volte sempre!👏
+</p>
